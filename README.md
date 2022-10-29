@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-
-
-About me
-<!--
 
 - 📫 How to reach me: lorenzobaumgratz@yahoo.com.br
 
@@ -24,4 +19,4 @@ International Mathematics Olympiad (CANGURU): Gold
 Regional Mathematics Olympiad (UNEMAT): Silver
 
 
--->
+
