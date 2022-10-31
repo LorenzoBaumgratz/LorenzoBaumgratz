@@ -27,6 +27,7 @@
 - 📫 How to reach me: lorenzobaumgratz@yahoo.com.br
 
 - Second semester of computer engineering at UFSC- Brazil
+- Administrative/Financial Director of EJEC (Junior Company of Computer Engineering)
 - English: fluent
 - Spanish: intermediary
 
