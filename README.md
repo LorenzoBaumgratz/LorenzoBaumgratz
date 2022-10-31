@@ -33,7 +33,8 @@
 
 2021: 
 Brazilian Astronomy and Astronautics Olympiad (OBA): Silver
-National Science Olympiad (ONC): Bronze
+
+2021:National Science Olympiad (ONC): Bronze
 
 2019:
 Brazilian Public School Physics Olympiad (OBFEP) - Regional stage: Bronze
