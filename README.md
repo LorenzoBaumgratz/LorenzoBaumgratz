@@ -22,7 +22,6 @@
 </div>
   
   
-  
 ##
 - 📫 How to reach me: lorenzobaumgratz@yahoo.com.br
 
