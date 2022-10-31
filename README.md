@@ -40,6 +40,8 @@ Brazilian Public School Physics Olympiad (OBFEP) - Regional stage: Bronze
 2016:
 International Mathematics Olympiad (CANGURU): Gold
 Regional Mathematics Olympiad (UNEMAT): Silver
+  
+
 
 
 
