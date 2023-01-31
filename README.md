@@ -35,7 +35,7 @@
 2021: 
 Brazilian Astronomy and Astronautics Olympiad (OBA): Silver
 
-2021:National Science Olympiad (ONC): Bronze
+2021: National Science Olympiad (ONC): Bronze
 
 2019:
 Brazilian Public School Physics Olympiad (OBFEP) - Regional stage: Bronze
@@ -43,7 +43,7 @@ Brazilian Public School Physics Olympiad (OBFEP) - Regional stage: Bronze
 2016:
 International Mathematics Olympiad (CANGURU): Gold
   
-2016:Regional Mathematics Olympiad (UNEMAT): Silver
+2016: Regional Mathematics Olympiad (UNEMAT): Silver
   
 
 
