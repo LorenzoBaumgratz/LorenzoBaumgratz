@@ -31,6 +31,7 @@
 - Ex Administrative/Financial Director of EJEC (Junior Company of Computer Engineering)
 - English: fluent
 - Spanish: intermediary
+- Portuguese: Native
 
 2021: 
 Brazilian Astronomy and Astronautics Olympiad (OBA): Silver
