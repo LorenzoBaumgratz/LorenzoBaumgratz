@@ -1,6 +1,6 @@
 ### Hey, I'm Lorenzo Baumgratz 👋
-<p>- Computer Engineering  student at UFSC (Brazil)</p>
-<p> -FullStack web developer </p>
+<p> - Computer Engineering  student at UFSC (Brazil)</p>
+<p> - FullStack web developer </p>
 
 <div align="center">
   <a href="https://github.com/LorenzoBaumgratz">
