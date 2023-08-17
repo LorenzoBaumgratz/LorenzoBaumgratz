@@ -11,7 +11,7 @@ on:
     
 runs:
   using: 'node16'
-  main: 'main.js'
+  main: 'cobrinha.yml'
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
 
