@@ -42,6 +42,7 @@
 - Portuguese: Native
 
 **AWARDS**
+
 2021: 
 Brazilian Astronomy and Astronautics Olympiad (OBA): Silver
 
