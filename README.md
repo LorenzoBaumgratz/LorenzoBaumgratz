@@ -35,7 +35,7 @@
 
 - Fourth semester of computer engineering at UFSC- Brazil
 - Ex Administrative/Financial Director of EJEC (Junior Company of Computer Engineering)
-- 
+  
 **LANGUAGES**
 - English: fluent
 - Spanish: intermediary
