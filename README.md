@@ -32,12 +32,16 @@
 ##
 - 📫 How to reach me: lorenzobaumgratz@yahoo.com.br
 
+
 - Fourth semester of computer engineering at UFSC- Brazil
 - Ex Administrative/Financial Director of EJEC (Junior Company of Computer Engineering)
+- 
+**LANGUAGES**
 - English: fluent
 - Spanish: intermediary
 - Portuguese: Native
 
+**AWARDS**
 2021: 
 Brazilian Astronomy and Astronautics Olympiad (OBA): Silver
 
