@@ -1,14 +1,14 @@
 
 ### Hey, I'm Lorenzo Baumgratz 👋
-<img align="right" height="300px" width="30%" src="https://hemalcorporation.com/wp-content/uploads/2020/02/web-development.gif">   
+<img align="right" height="300px" width="25%" src="https://hemalcorporation.com/wp-content/uploads/2020/02/web-development.gif">   
 <p> - Computer Engineering  student at UFSC (Brazil)</p>
 <p> - FullStack web developer </p>
 <p> - Passionate about programming, math, online games and volleyball </p>
 
   <p align="left">
     <a href="https://github.com/LorenzoBaumgratz">
-    <img height="140em"  src="https://github-readme-stats.vercel.app/api?username=LorenzoBaumgratz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoBaumgratz&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=LorenzoBaumgratz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoBaumgratz&layout=compact&langs_count=7&theme=dracula"/>
   </p>
   
 
