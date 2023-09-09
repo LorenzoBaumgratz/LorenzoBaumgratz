@@ -24,11 +24,8 @@
 </div>
 <div> 
   <h4> Social Networks</h3>
-  <a href="https://www.instagram.com/lorenzo_baumgratz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lorenzobaumgratz3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lorenzo-baumgratz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-   <img height="500px" width="100%" src="https://hemalcorporation.com/wp-content/uploads/2020/02/web-development.gif">
 </div>
   
   
@@ -59,7 +56,7 @@ International Mathematics Olympiad (CANGURU): Gold
   
 2016: Regional Mathematics Olympiad (UNEMAT): Silver
   
-
+<img height="500px" width="100%" src="https://hemalcorporation.com/wp-content/uploads/2020/02/web-development.gif">
 
 
 
