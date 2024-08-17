@@ -41,7 +41,7 @@
 - 📫 How to reach me: lorenzobaumgratz@yahoo.com.br
 
 
-- Fourth semester of computer engineering at UFSC- Brazil
+- Sixth semester of computer engineering at UFSC- Brazil
 - Ex Administrative/Financial Director of EJEC (Junior Company of Computer Engineering)
   
 **AWARDS**
