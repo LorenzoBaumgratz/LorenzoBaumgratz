@@ -3,7 +3,6 @@
 
 <img align="right" height="300px" width="25%" src="https://hemalcorporation.com/wp-content/uploads/2020/02/web-development.gif">   
 <p> - Computer Engineering  student at UFSC (Brazil)</p>
-<p> - FullStack web developer </p>
 <p> - Passionate about programming, math, online games and volleyball </p>
 
   <p align="left">
