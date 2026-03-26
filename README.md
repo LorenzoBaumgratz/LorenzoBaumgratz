@@ -35,11 +35,7 @@
   
   
 ##
-- 📫 How to reach me: lorenzobaumgratz@yahoo.com.br
-
-
-- Sixth semester of computer engineering at UFSC- Brazil
-- Ex Administrative/Financial Director of EJEC (Junior Company of Computer Engineering)
+- 📫 How to reach me: lorenzobaumgratz3@gmail.com
   
 **AWARDS**
 <h5>2021: Brazilian Astronomy and Astronautics Olympiad (OBA): Silver</h5>
